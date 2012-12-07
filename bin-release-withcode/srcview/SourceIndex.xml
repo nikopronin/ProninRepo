@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index>
+	<title>Исходный код Exercise</title>
+	<nodes>
+		<node label="src">
+			<node icon="mxmlAppIcon" selected="true" label="Exercise.mxml" url="source/Exercise.mxml.html"/>
+		</node>
+	</nodes>
+	<zipfile label="Загрузить исходный код (ZIP, 6 Кб)" url="Exercise.zip">
+	</zipfile>
+	<sdklink label="Загрузить Flex SDK" url="http://www.adobe.com/go/flex451_sdk_download_ru_RU_ru_RU">
+	</sdklink>
+</index>
