@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.adobe.flexbuilder.editorcore.ui.pi.PropertiesView">
+		<item value="true" key="Стиль"/>
+		<item value="true" key="Размер и положение"/>
+		<item value="true" key="Общий"/>
+		<item value="1" key="ViewOption"/>
+		<item value="true" key="Макет"/>
+	</section>
+	<section name="ExportWizard">
+	</section>
+</section>
